@@ -6,6 +6,5 @@
 ## 访问统计
 ![](https://count.getloli.com/get/@GuaiJie?theme=gelbooru)
 ***
-# 一些小项目 Some Projects
-[音乐搜索器](https://music.guaijie.ml)  
-[GitHub镜像](https://hub.guaitool.ml) 
+# 一些小项目 Some Projects  
+[GitHub镜像](https://hub.guaijie.ml) 
