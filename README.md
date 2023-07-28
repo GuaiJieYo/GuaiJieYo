@@ -16,5 +16,5 @@
 ### 👇 个人网站
 无聊时写的XD
 
-![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-%2300A98F?style=for-the-badge&logo=aboutdotme&logoColor=white)
-![Blog](https://img.shields.io/badge/Blog-%23FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+<a href='https://www.guaijie.top'>![PersonalWebsite](https://img.shields.io/badge/PersonalWebsite-%2300A98F?style=for-the-badge&logo=aboutdotme&logoColor=white)</a>
+<a href='https://blog.guaijie.top'>![Blog](https://img.shields.io/badge/Blog-%23FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>
