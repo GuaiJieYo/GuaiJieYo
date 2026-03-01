@@ -11,7 +11,7 @@
 ![Vue](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Kotlin]([https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white))  
+![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
 
 #### 常用语言
 ![MostUsedLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=guaijieyo&layout=compact&show_icons=true&theme=vue&locale=cn)
