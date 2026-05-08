@@ -13,7 +13,7 @@ Blog: https://blog.guaijie.top**
 
 ## 🛠️ Skills & Technologies
 
-![Vue](https://www.shieldcn.dev/badge/-Vue-4FC08D.svg?logo=vuedotjs&variant=branded&size=sm) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm) ![Astro](https://www.shieldcn.dev/badge/-Astro-BC52EE.svg?logo=astro&variant=branded&size=sm) ![Biome](https://www.shieldcn.dev/badge/-Kotolin-60A5FA.svg?logo=kotolin&variant=branded&size=sm)
+![Vue](https://www.shieldcn.dev/badge/-Vue-4FC08D.svg?logo=vuedotjs&variant=branded&size=sm) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm) ![Astro](https://www.shieldcn.dev/badge/-Astro-BC52EE.svg?logo=astro&variant=branded&size=sm) ![Kotlin](https://shieldcn.dev/badge/Kotlin-7f52ff.svg?logo=kotlin&mode=light)
 
 ## 📦 Top Repositories
 
