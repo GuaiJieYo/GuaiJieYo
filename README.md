@@ -1,30 +1,20 @@
-# Hi there 👋
-### Hiiiii 我是GuaiJie，偶尔会做一些有意思的事情。
-> A high school student from Chengdu,China
+<div align="center">
 
-![GithubData](https://github-readme-stats.vercel.app/api/?username=guaijieyo&show_icons=true&theme=vue&locale=cn)
+# Hi, I'm GuaiJieOvO 👋
 
-### 👇 技术栈
-用到什么学什么，不用就忘。
+**PersonalWebsite: https://www.guaijie.top
+Blog: https://blog.guaijie.top**
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/vue-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40GuaiJieYo-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/GuaiJieYo) [![Website](https://www.shieldcn.dev/badge/Website-guaijie.top-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://guaijie.top)
 
-#### 常用语言
-![MostUsedLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=guaijieyo&layout=compact&show_icons=true&theme=vue&locale=cn)
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/GuaiJieYo.svg?variant=secondary&size=sm)](https://github.com/GuaiJieYo?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/GuaiJieYo.svg?variant=secondary&size=sm)](https://github.com/GuaiJieYo?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-8-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/GuaiJieYo?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Sichuan%2CChina-6366f1.svg?logo=googlemaps&variant=ghost&size=sm) ![Company](https://www.shieldcn.dev/badge/Company-Null-1f2937.svg?logo=building&variant=ghost&size=sm)
 
-### 👇 个人项目
-无聊时写的XD
+</div>
 
-<a href='https://www.guaijie.top'>![PersonalWebsite](https://img.shields.io/badge/个人主页-%2300A98F?style=for-the-badge&logo=aboutdotme&logoColor=white)</a>
-<a href='https://blog.guaijie.top'>![Blog](https://img.shields.io/badge/博客-%23FF5722?style=for-the-badge&logo=blogger&logoColor=white)</a>  
-<a href='https://github.com/guaijieyo/DailyRecommendedMusic'>![DailyRecommendedMusic](https://github-readme-stats.vercel.app/api/pin/?username=guaijieyo&repo=DailyRecommendedMusic&show_owner=true&locale=cn&theme=vue)</a>
-<a href='https://github.com/guaijieyo/YunLiuWeb'>![YunLiuCraft开源官网](https://github-readme-stats.vercel.app/api/pin/?username=guaijieyo&repo=YunLiuWeb&show_owner=true&locale=cn&theme=vue)</a>
-<a href='https://github.com/guaijieyo/YunLiuWeb'>![EasyQQVerify - 简单QQ验证](https://github-readme-stats.vercel.app/api/pin/?username=guaijieyo&repo=EasyQQVerify&show_owner=true&locale=cn&theme=vue)</a>
+## 🛠️ Skills & Technologies
 
+![Vue](https://www.shieldcn.dev/badge/-Vue-4FC08D.svg?logo=vuedotjs&variant=branded&size=sm) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm) ![Astro](https://www.shieldcn.dev/badge/-Astro-BC52EE.svg?logo=astro&variant=branded&size=sm) ![Biome](https://www.shieldcn.dev/badge/-Kotolin-60A5FA.svg?logo=kotolin&variant=branded&size=sm)
 
-### 👇 访客记录
-![GuaiJie](https://count.getloli.com/get/@GuaiJie?theme=gelbooru)
+## 📦 Top Repositories
+
+[![YunLiuWeb ⭐ 1](https://www.shieldcn.dev/github/stars/GuaiJieYo/YunLiuWeb.svg?variant=secondary&size=sm)](https://github.com/GuaiJieYo/YunLiuWeb) [![Wallpaper ⭐ 1](https://www.shieldcn.dev/github/stars/GuaiJieYo/Wallpaper.svg?variant=secondary&size=sm)](https://github.com/GuaiJieYo/Wallpaper) [![GuaiJieYo ⭐ 1](https://www.shieldcn.dev/github/stars/GuaiJieYo/GuaiJieYo.svg?variant=secondary&size=sm)](https://github.com/GuaiJieYo/GuaiJieYo)
