@@ -2,7 +2,7 @@
 
 # Hi, I'm GuaiJieOvO 👋
 
-![SVG](./GuaiJie-SVG-Animation.svg)]
+![SVG](./GuaiJie-SVG-Animation.svg)
 
 **PersonalWebsite: https://www.guaijie.top
 Blog: https://blog.guaijie.top**
